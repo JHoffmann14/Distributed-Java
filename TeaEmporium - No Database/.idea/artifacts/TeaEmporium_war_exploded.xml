@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TeaEmporium:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeaEmporium_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TeaEmporium/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TeaEmporium" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 27 18:58:07 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-c196-eae3-00000e61e048 
+on database directory E:\Spring 2019\Distributed Java\DistJava-master\DBSample\CoffeeDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Program%20Files/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=E:\Spring 2019\Distributed Java\DistJava-master\DBSample
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 03 15:51:25 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-e4f8-8160-00000f400000 
+on database directory E:\Spring 2019\Distributed Java\Labs\TeaDBLab5\TeaDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/C:/Program%20Files/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.1+13-LTS
+user.dir=E:\Spring 2019\Distributed Java\Labs\TeaDBLab5
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

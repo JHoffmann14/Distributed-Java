@@ -1,0 +1,56 @@
+Oracle - current owners of Java
+Sun - Creaters of Java, no longer around
+
+GlassFish - Open Source product to run Java
+
+javabean class of private getters and setters and no main method.
+
+entity classes is a javabean.
+
+J2EE --> JEE
+History
+J 1.0
+J 1.1
+J 1.2 = J2SE && J2EE
+
+Names service = inventory service
+NamesController = inventoryController
+
+add delete to working store
+add change qty and update order button
+update will call shopping cart controller
+
+remove uses javascript will create cookie with price comming from the browser history
+sampleMVC with cart will help complete
+
+new form to servlet /*
+
+function post(path, parameters) {
+	var form = $("<form></form>");
+	form.attr("method", "post');
+	form.attr("action", path);
+
+	$.each(parameters, function(key, value) {
+		var field = $("<input></input>");
+
+		field.attr("type", "hidden");
+		field.attr("name", key);
+		field.attr("value", value);
+	
+		form.append(field);
+	}));
+
+	$(document.body).append(form);
+	form.submit();
+}
+*/
+
+Cart -> Delete -> Serach ->
+minium due - working with the database
+modal class - needs to change to work with database
+week 9 - DAO
+week 10 - JSTL/EL
+week 11 - Test 1
+
+
+Lab #5 - commandLine database - due by latest the 3rd
