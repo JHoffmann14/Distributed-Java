@@ -49,12 +49,12 @@
         <url-pattern>/cartPlace.go</url-pattern>
     </servlet-mapping>
     <!-- -->
-  <!--  <servlet>
+    <servlet>
         <servlet-name>bill</servlet-name>
         <servlet-class>us.joshhoffmann.controller.BillController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>bill</servlet-name>
         <url-pattern>/bill.go</url-pattern>
-    </servlet-mapping>-->
+    </servlet-mapping>
 </web-app>

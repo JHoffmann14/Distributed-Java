@@ -10,56 +10,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e5f983f-d3c8-46b0-9f36-afd67c40aed2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DBSample/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/.idea/libraries/derby.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/.idea/libraries/derby.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/log.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/log1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c101.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c111.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c121.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c130.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c141.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c20.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c31.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c41.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c51.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c60.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c81.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/c90.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/ca1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cab0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cab0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cac1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cac1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cae1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cae1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cb1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/CoffeeDB/seg0/cf0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DBSample/out/production/DBSample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DBSample/out/production/DBSample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBConsole/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBConsole/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBConsole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBConsole/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NamesApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NamesApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../NamesApp/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NamesApp/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/log2.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/log2.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c101.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c111.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c121.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c130.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c141.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c1810.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c1821.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c1830.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c1841.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c20.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c31.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c41.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c51.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c71.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/c90.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/ca1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/cb1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/cf0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/d17d0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/d17e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/d17f0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/TeaDB/seg0/d1801.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/out/production/TeaDBLab5/CreateTeaDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/out/production/TeaDBLab5/CreateTeaDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/out/production/TeaDBLab5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/out/production/TeaDBLab5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/TeaDBLab5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/TeaDBLab5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/CSS/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/CSS/cart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/CartPlaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/CartPlaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/BillController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/TeaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/controller/TeaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/model/TeaCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/classes/us/joshhoffmann/model/TeaCatalog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/productCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/productCart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/shared/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/shared/menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/META-INF/TeaEmporium.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/CartPlaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/CartPlaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/artifacts/TeaEmporium_war_exploded/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/BillController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/BillController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/CartPlaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/CartPlaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/TeaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/controller/TeaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/model/TeaCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/out/production/TeaEmporium/us/joshhoffmann/model/TeaCatalog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/BillController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/BillController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/CSS/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/CSS/cart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/TeaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/controller/TeaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/model/TeaCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/src/us/joshhoffmann/model/TeaCatalog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/productCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/productCart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/shared/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/shared/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeaEmporium/web/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeaEmporium/web/home.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,41 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/matt/controller/CartPlaceController.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="411">
+              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/us/matt/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/cart.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/us/matt/controller/CartController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/catalog.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -174,9 +160,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-70" />
-    <option name="y" value="158" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1" />
+    <option name="y" value="4" />
     <option name="width" value="1296" />
     <option name="height" value="1000" />
   </component>
@@ -186,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,26 +188,6 @@
             <path>
               <item name="SampleMVCWithCart" type="b2602c69:ProjectViewProjectNode" />
               <item name="SampleMVCWithCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="matt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SampleMVCWithCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SampleMVCWithCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="matt" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SampleMVCWithCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SampleMVCWithCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="matt" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SampleMVCWithCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SampleMVCWithCart" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,16 +200,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538362465529" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554342429339" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Labs/TeaDBLab5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -271,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="GlassFish Server.GlassFish 4.1.1">
+  <component name="RunManager" selected="GlassFish Server.GlassFish 5.0.0">
     <configuration name="GlassFish 4.1.1" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -450,11 +419,12 @@
       <workItem from="1551927046801" duration="1766000" />
       <workItem from="1551929085322" duration="598000" />
       <workItem from="1552524788369" duration="61000" />
+      <workItem from="1554338465616" duration="3175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46841000" />
+    <option name="totallyTimeSpent" value="50016000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,10 +436,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-70" y="158" width="1296" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="1" y="4" width="1296" height="1000" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8548673" weight="0.9134304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8548673" visible="true" weight="0.26132685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -479,7 +448,7 @@
       <window_info id="Web" order="7" sideWeight="0.14513275" side_tool="true" weight="0.43939394" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34149185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34140715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,51 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/matt/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/matt/model/ItemCatalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/us/matt/controller/BillController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/us/matt/controller/CatalogController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-64">
           <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -640,6 +568,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/us/matt/controller/CartController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -649,24 +584,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/catalog.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="234">
           <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/cart.jsp">
+    <entry file="file://$PROJECT_DIR$/src/us/matt/controller/BillController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="78">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/matt/model/ItemCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/us/matt/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SampleMVCWithCart:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (SampleMVCWithCart)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SampleMVCWithCart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

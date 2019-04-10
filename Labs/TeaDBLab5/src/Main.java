@@ -64,7 +64,9 @@ public class Main {
         Statement stmt = null;
         Statement stmt2 = null;
         Connection conn = null;
+
         try {
+
             System.out.println("Connecting to database...");
             conn = DriverManager.getConnection(DB_URL);
             System.out.println("Creating statement...");
@@ -78,16 +80,16 @@ public class Main {
             sql = "SELECT ProdId, ProdName, ProdType, Price FROM Cart";
             ResultSet rs2 = stmt2.executeQuery(sql);
 
-
             System.out.println("Press the option you want");
             System.out.println("v - View list of teas");
             System.out.println("a - Add Tea");
             System.out.println("c - View Cart");
+            System.out.println("e - Exit");
 
             Scanner sc = new Scanner(System.in);
             String option = sc.nextLine();
 
-            System.out.println(rs + "  " + rs2);
+   //         System.out.println(rs + "  " + rs2);
             switch(option){
                 case "v":
                 case "V":
@@ -129,7 +131,7 @@ public class Main {
                 case "c":
                 case "C":
                     while(rs2.next()) {
-                        System.out.println(rs2);
+
                         String id = rs2.getString("ProdId");
                         String name = rs2.getString("ProdName");
                         String type = rs2.getString("ProdType");
@@ -145,6 +147,9 @@ public class Main {
                   //  stmt2.close();
                     conn.close();
                     return;
+                case "e":
+                case "E":
+                    System.exit(0);
                 default:
                     return;
             }

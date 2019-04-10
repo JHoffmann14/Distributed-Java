@@ -38,7 +38,7 @@
                       alt="Green Tea"
                       style="width:100%"
               />
-            <jsp:useBean id="TeaController" class="us.joshhoffmann.controller.TeaController" scope="session" />
+            <!--<!jsp:useBean id="TeaController" class="us.joshhoffmann.controller.TeaController" scope="session" />-->
             <div class="container">
               <h4><b>Green Tea</b></h4>
             </div>

@@ -1,20 +1,20 @@
 package us.joshhoffmann.controller;
 
-import us.joshhoffmann.model.TeaCatalog;
+import us.joshhoffmann.model.CreateTeaDB;
 import us.joshhoffmann.model.Tea;
-
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.List;
+import us.joshhoffmann.model.TeaCatalog;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.util.List;
 
 public class TeaController extends HttpServlet {
 
+    CreateTeaDB ct = new CreateTeaDB();
   /*  protected void processRequest(HttpServletRequest request, HttpServletResponse response)
         throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
